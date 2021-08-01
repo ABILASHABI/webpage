@@ -1,0 +1,35 @@
+body {
+  background: #333;
+  color: rgb(17, 167, 75);
+}
+
+.navbar {
+  border-bottom: #f2f8fc 3px solid;
+  opacity: 0.8;
+}
+.d-flex{
+  margin-left: 50px;
+}
+.video-fluid {
+  width: 50%;
+  height: auto;
+  display: inline-block;
+  background-color: azure;
+}
+#topbar {
+  background: #3fbbc0;
+  color: #fff;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+}
+#explore-section .fas,
+#share-section .fas {
+  background: rgb(240, 172, 209);
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+
